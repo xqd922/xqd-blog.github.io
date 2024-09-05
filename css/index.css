@@ -5469,7 +5469,7 @@ span.tags-punctuation {
     height: 100%;
     top: 0;
     left: 0;
-    box-shadow: 0 -109px 133px -9px none inset;
+    box-shadow: 0 -109px 133px -9px #000 inset;
   }
   .topGroup .todayCard.hide {
     opacity: 0;
